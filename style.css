@@ -67,3 +67,8 @@ nav a {
 nav a:hover {
   color: #ff9800;
 }
+.profile {
+  width: 120px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
